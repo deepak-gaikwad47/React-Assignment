@@ -1,0 +1,1 @@
+export const MENU_LIST = ['Reports', 'Work Orders', 'Calender Type'];
