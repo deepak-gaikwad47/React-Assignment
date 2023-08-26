@@ -3,5 +3,5 @@
 To start app :- npm start
 
 Authorised user :- 
-    email: dpkgaikwad47@gmail.com
+    email: deepakgaikwad@gmail.com
     password: password
